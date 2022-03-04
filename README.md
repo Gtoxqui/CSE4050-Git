@@ -1,2 +1,2 @@
 # CSE4050-Git
-GitHub Assignments 
+CSE 4050 GitHub Assignments 
